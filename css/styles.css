@@ -168,7 +168,7 @@ footer {
   margin-bottom: 20px;
 }
 
-.footer-address-item {
+.footer-address-item:not(:last-child) {
   margin-bottom: 9px;
 }
 
